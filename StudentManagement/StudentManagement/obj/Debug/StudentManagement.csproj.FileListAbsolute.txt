@@ -1,0 +1,32 @@
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+c:\users\jayed\documents\visual studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Data_View.resources
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.SIIForm.resources
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.StResForm.resources
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.resources
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\jayed\CSI\jayed\C#\jahir\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\jayed\CSI\jayed\C#\jahir\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\jayed\CSI\jayed\C#\jahir\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Course.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Data_View.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.SIIForm.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.StResForm.resources
+G:\♥.dat\Projects\C# Projects\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache

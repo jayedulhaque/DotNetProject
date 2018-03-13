@@ -1,0 +1,64 @@
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\bin\Debug\Employee.exe.config
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\bin\Debug\Employee.exe
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\bin\Debug\Employee.pdb
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.Form1.resources
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.exe
+c:\users\common\documents\visual studio 2012\Projects\Employee\Employee\obj\Debug\Employee.pdb
+K:\♥.dat\Employee\Employee\bin\Debug\Employee.exe.config
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.exe
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.pdb
+K:\♥.dat\Employee\Employee\bin\Debug\Employee.exe
+K:\♥.dat\Employee\Employee\bin\Debug\Employee.pdb
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.Form1.resources
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+K:\♥.dat\Employee\Employee\obj\Debug\Employee.DataView.resources
+D:\♥.dat\Employee\Employee\bin\Debug\Employee.exe.config
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.exe
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.pdb
+D:\♥.dat\Employee\Employee\bin\Debug\Employee.exe
+D:\♥.dat\Employee\Employee\bin\Debug\Employee.pdb
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.DataView.resources
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.Form1.resources
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+D:\♥.dat\Employee\Employee\obj\Debug\Employee.EmpD.resources
+H:\♥.dat\Employee\Employee\bin\Debug\Employee.exe.config
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.exe
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.pdb
+H:\♥.dat\Employee\Employee\bin\Debug\Employee.exe
+H:\♥.dat\Employee\Employee\bin\Debug\Employee.pdb
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.DataView.resources
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.EmpD.resources
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.Form1.resources
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+H:\♥.dat\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\Jayed\Desktop\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\Jayed\Desktop\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Jayed\Desktop\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.DataView.resources
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.EmpD.resources
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\Jayed\Desktop\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+D:\jayed\CSI\jayed\C#\jahir\Employee\Employee\bin\Debug\Employee.exe.config
+D:\jayed\CSI\jayed\C#\jahir\Employee\Employee\obj\Debug\Employee.exe
+D:\jayed\CSI\jayed\C#\jahir\Employee\Employee\obj\Debug\Employee.pdb
+G:\♥.dat\Jayed\Employee\Employee\bin\Debug\Employee.exe.config
+G:\♥.dat\Jayed\Employee\Employee\obj\Debug\Employee.exe
+G:\♥.dat\Jayed\Employee\Employee\obj\Debug\Employee.pdb
+G:\♥.dat\Projects\C# Projects\Employee\Employee\bin\Debug\Employee.exe.config
+G:\♥.dat\Projects\C# Projects\Employee\Employee\obj\Debug\Employee.exe
+G:\♥.dat\Projects\C# Projects\Employee\Employee\obj\Debug\Employee.pdb
+H:\♥.dat\Projects\C# Projects\Employee\Employee\bin\Debug\Employee.exe.config
+H:\♥.dat\Projects\C# Projects\Employee\Employee\obj\Debug\Employee.exe
+H:\♥.dat\Projects\C# Projects\Employee\Employee\obj\Debug\Employee.pdb

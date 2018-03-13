@@ -1,0 +1,30 @@
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe.config
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.pdb
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Form1.resources
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.exe
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.pdb
+d:\documents\visual studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csprojResolveAssemblyReference.cache
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe.config
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.exe
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.pdb
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.pdb
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csprojResolveAssemblyReference.cache
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Form1.resources
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Properties.Resources.resources
+C:\Users\Jayed\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csproj.GenerateResource.Cache
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe.config
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.exe
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.pdb
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.pdb
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csprojResolveAssemblyReference.cache
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Form1.resources
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.Properties.Resources.resources
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.csproj.GenerateResource.Cache
+G:\♥.dat\Projects\C# Projects\Filesplittr\Filesplittr\bin\Debug\Filesplittr.exe.config
+G:\♥.dat\Projects\C# Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.exe
+G:\♥.dat\Projects\C# Projects\Filesplittr\Filesplittr\obj\Debug\Filesplittr.pdb
